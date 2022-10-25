@@ -21,7 +21,11 @@ app.get('/courses/:id', (req, res) => {
     res.send(some_courses)
 })
 
-
+app.get('/coursesDetail/:id', (req, res) => {
+    const id = req.params.id;
+    const detail = courses.find(n => n._id === id);
+    res.send(detail)
+})
 
 app.listen(port, () => {
     console.log('assigment server running port', port)
