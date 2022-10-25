@@ -1,0 +1,178 @@
+[
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+        "others_info": {
+            "is_todays_pick": false,
+            "is_trending": true
+        },
+        "category_id": "01",
+        "rating": {
+            "number": 4.5,
+            "badge": "Excellent"
+        },
+        "total_view": 488,
+        "title": "Complete React Developer in 2022 (w/ Redux, Hooks, GraphQL): Zero to Mastery",
+        "author": {
+            "name": "Jimmy Dane",
+            "published_date": "2022-08-24 17:27:34",
+            "img": "https://i.ibb.co/CMJvf9Q/CnVlR.jpg"
+        },
+        "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
+        "details": "Learn from React.js experts. This is the only React JS tutorial + projects course you need to learn React, build advanced large-scale applications from scratch & get hired as a React Developer in 2022.",
+        "price": 99.99
+    },
+    {
+        "_id": "0282e0e58a5c404fbd15261f11c2ab6b",
+        "others_info": {
+            "is_todays_pick": false,
+            "is_trending": true
+        },
+        "category_id": "01",
+        "rating": {
+            "number": 4.5,
+            "badge": "Excellent"
+        },
+        "total_view": 488,
+        "title": "The Python Mega Course: Build 10 Real World Applications",
+        "author": {
+            "name": "Jimmy Dane",
+            "published_date": "2022-08-24 17:27:34",
+            "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        },
+        "image_url": "https://i.ibb.co/tx0Nz6Y/y8MR.jpg",
+        "details": "Go from zero to hero in weeks! Learn Python the easy way by building real-life Python programs from scratch!",
+        "price": 95.99
+    },
+    {
+        "_id": "f69a695f037cd9484cecaea37ca71011",
+        "others_info": {
+            "is_todays_pick": false,
+            "is_trending": true
+        },
+        "category_id": "02",
+        "rating": {
+            "number": 4.8,
+            "badge": "Excellent"
+        },
+        "total_view": 400,
+        "title": "iOS & Swift - The Complete iOS App Development Bootcamp",
+        "author": {
+            "name": "Jennifer Wood",
+            "published_date": "2022-08-30 16:38:45",
+            "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        },
+        "image_url": "https://i.ibb.co/7t9RjpM/oMs4I.jpg",
+        "details": "From Beginner to iOS App Developer with Just One Course! Fully Updated with a Comprehensive Module Dedicated to SwiftUI!",
+        "price": 89.99
+    },
+    {
+        "_id": "f69a695f037cd9484cecaea37ca71012",
+        "others_info": {
+            "is_todays_pick": false,
+            "is_trending": true
+        },
+        "category_id": "02",
+        "rating": {
+            "number": 4.3,
+            "badge": "Excellent"
+        },
+        "total_view": 400,
+        "title": "React Native - The Practical Guide [2021 Edition]",
+        "author": {
+            "name": "Jennifer Wood",
+            "published_date": "2022-08-30 16:38:45",
+            "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        },
+        "image_url": "https://i.ibb.co/xFWYr7L/lOw4u.jpg",
+        "details": "Use React Native and your React knowledge to build native iOS and Android Apps - incl. Push Notifications, Hooks, Redux",
+        "price": 59.00
+    },
+    {
+        "_id": "11468ed61aee84de492a8b04158a22f9",
+        "others_info": {
+            "is_todays_pick": false,
+            "is_trending": false
+        },
+        "category_id": "03",
+        "rating": {
+            "number": 4.5,
+            "badge": "Excellent"
+        },
+        "total_view": 980,
+        "title": "Learn Figma - UI/UX Design Essential Training",
+        "author": {
+            "name": "system",
+            "published_date": "2022-08-24 23:15:00",
+            "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        },
+        "image_url": "https://i.ibb.co/7rMv6XQ/OQpJe.jpg",
+        "details": "Figma is a very powerful application that runs online. There are virtually no platform boundaries when it comes to using figma because you can design within a web browser or using their desktop",
+        "price": 76.00
+    },
+    {
+        "_id": "11468ed61aee84de492a8b04158a22f0",
+        "others_info": {
+            "is_todays_pick": false,
+            "is_trending": false
+        },
+        "category_id": "03",
+        "rating": {
+            "number": 4.5,
+            "badge": "Excellent"
+        },
+        "total_view": 980,
+        "title": "Learn UI/UX Design, prototype, handoff from scratch",
+        "author": {
+            "name": "system",
+            "published_date": "2022-08-24 23:15:00",
+            "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        },
+        "image_url": "https://i.ibb.co/r36qhZj/xPe01.jpg",
+        "details": "Learn how to design and prototype apps and webpages using Adobe XD",
+        "price": 79.90
+    },
+    {
+        "_id": "2e78e5e0310c2e9adbb6efb1a263e745",
+        "others_info": {
+            "is_todays_pick": false,
+            "is_trending": true
+        },
+        "category_id": "04",
+        "rating": {
+            "number": 4.5,
+            "badge": "Excellent"
+        },
+        "total_view": null,
+        "title": "SEO Fundamentals (Keywords, Link Building, Content Optimization)",
+        "author": {
+            "name": null,
+            "published_date": "2022-08-30 15:00:04",
+            "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        },
+        "image_url": "https://i.ibb.co/w72L1qG/NeRQg.jpg",
+        "details": "Learn SEO fundamentals and tools from scratch. No fluff. This course makes SEO easy to understand and gives you simple, actionable steps to implement to efficiently rank your website (or your clients)",
+        "price": 50.00
+    },
+    {
+        "_id": "a713ee936ff5574273f0f769f5c5b20e",
+        "others_info": {
+            "is_todays_pick": false,
+            "is_trending": true
+        },
+        "category_id": "04",
+        "rating": {
+            "number": 4.5,
+            "badge": "Excellent"
+        },
+        "total_view": 111,
+        "title": "Build a Complete Digital Marketing Strategy in Just 7 Days",
+        "author": {
+            "name": "system",
+            "published_date": null,
+            "img": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+        },
+        "image_url": "https://i.ibb.co/9nh9jgD/M3RHj.jpg",
+        "details": "Build a Digital Marketing Strategy to drive traffic, leads & sales with WordPress, SEO, Email & Google Analytics.",
+        "price": 109.99
+    }
+]
