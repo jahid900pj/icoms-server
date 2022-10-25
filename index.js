@@ -11,6 +11,10 @@ app.get('/', (req, res) => {
     res.send('news api running')
 })
 
+app.get('/allCourses', (req, res) => {
+    res.send(courses)
+})
+
 
 
 app.listen(port, () => {
