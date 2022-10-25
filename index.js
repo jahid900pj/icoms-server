@@ -15,6 +15,12 @@ app.get('/allCourses', (req, res) => {
     res.send(courses)
 })
 
+app.get('/courses/:id', (req, res) => {
+    const id = req.params.id;
+    const some_courses = courses.filter(n => n.category_id === id)
+    res.send(some_courses)
+})
+
 
 
 app.listen(port, () => {
