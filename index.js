@@ -15,13 +15,15 @@ app.get('/allCourses', (req, res) => {
     res.send(courses)
 })
 
-app.get('/courses/:id', (req, res) => {
-    const id = req.params.id;
-    const some_courses = courses.filter(n => n.category_id === id)
-    res.send(some_courses)
-})
+
 
 app.get('/coursesDetail/:id', (req, res) => {
+    const id = req.params.id;
+    const detail = courses.find(n => n._id === id);
+    res.send(detail)
+})
+
+app.get('/premium/:id', (req, res) => {
     const id = req.params.id;
     const detail = courses.find(n => n._id === id);
     res.send(detail)
